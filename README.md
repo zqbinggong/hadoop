@@ -1,5 +1,5 @@
 # **Hadoop**
-这是我关于Hadoop的学习笔记，参考书籍为《Hadoop: The Definitive Guide，4th Edition》
+这是我关于Hadoop的学习笔记，参考书籍为《Hadoop: The Definitive Guide，4th Edition》</br>
 **！ All pictures are screenshots from the book 'Hadoop: The Definitive Guide, Fourth Edititon, by Tom White(O'Reilly).Copyright?2015TomWhite， 978-1-491-90163-2'**
 
 ## [MapReduce][1]
